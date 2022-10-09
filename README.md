@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Computer Science Student @ UNICAM<br>🛡️ CyberSecurity Enthusiast<br>📚 Currently studying for eJPT<br>💬 Contact me on Twitter or Telegram @FeeDz
+👨🏻‍💻 Computer Science Student @ UNICAM<br>🛡️ CyberSecurity Enthusiast & CTF player 🚩<br>📚 Currently studying for eJPT<br>💬 Contact me on Twitter or Telegram @FeeDz
 
 
 ## 🌐 Socials:
