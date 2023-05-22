@@ -1,7 +1,6 @@
 # 💫 About Me:
 👨🏻‍💻 Computer Science Student @ UNICAM<br>🛡️ CyberSecurity Enthusiast & CTF player 🚩<br>📚 Currently studying for eJPT<br>💬 Contact me on Twitter or Telegram @FeeDz
 
-<div class="tenor-gif-embed" data-postid="15998845" data-share-method="host" data-aspect-ratio="1.23552" data-width="100%"><a href="https://tenor.com/view/piske-usagi-pc-laptop-computer-gif-15998845">Piske Usagi Sticker</a>from <a href="https://tenor.com/search/piske-stickers">Piske Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.alee._) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FeeDz_EU) 
 
