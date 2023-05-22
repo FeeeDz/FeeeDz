@@ -1,6 +1,11 @@
 # 💫 About Me:
+
+<p align="left"> 
+
 ![piske-usagi](https://github.com/FeeeDz/FeeeDz/assets/67475596/063db9bd-0e6b-4fe8-a368-c4fd1f9b4b9a)
+</p>
 👨🏻‍💻 Computer Science Student @ UNICAM<br>🛡️ CyberSecurity Enthusiast & CTF player 🚩<br>📚 Currently studying for eJPT<br>💬 Contact me on Twitter or Telegram @FeeDz
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.alee._) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FeeDz_EU) 
@@ -16,4 +21,3 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
