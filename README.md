@@ -1,9 +1,7 @@
 # 💫 About Me:
 
-<p align="right"> 
+<img src="![piske-usagi](https://github.com/FeeeDz/FeeeDz/assets/67475596/063db9bd-0e6b-4fe8-a368-c4fd1f9b4b9a)" align="right">
 
-![piske-usagi](https://github.com/FeeeDz/FeeeDz/assets/67475596/063db9bd-0e6b-4fe8-a368-c4fd1f9b4b9a)
-</p>
 👨🏻‍💻 Computer Science Student @ UNICAM<br>🛡️ CyberSecurity Enthusiast & CTF player 🚩<br>📚 Currently studying for eJPT<br>💬 Contact me on Twitter or Telegram @FeeDz
 
 
